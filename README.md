@@ -12,6 +12,8 @@
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="OpenGL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Unreal Engine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/unity/unity-original.svg" style="padding-right:10px;" />
