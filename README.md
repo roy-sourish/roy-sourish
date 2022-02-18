@@ -1,9 +1,11 @@
 ### Hi there, I'm Roy 
 
 ## I'm a Student and Game Developer!!!
-- I'm currently learning: Game Development, OpenGL.
-- 2022 Goals: Get AWS Cloud Practitioner Certification.
-- Looking to collaborate with Game Developers/Programmers.
+
+- 🌱 I'm currently learning: Game Development, OpenGL.
+- 🥅 2022 Goals: Get AWS Cloud Practitioner Certification.
+- 🔭 Looking to collaborate with Game Developers/Programmers.
+- ⚡ I love to build cool stuff.
 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" />
