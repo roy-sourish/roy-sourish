@@ -3,7 +3,7 @@
 ## I'm a Student and Game Developer!!!
 
 - 🌱 I'm currently learning: Game Development, OpenGL.
-- 🥅 2022 Goals: Start contributing to Open Source.
+- 🥅 2022 Goals: AWS Cloud Practitioner Certification.
 - 🔭 Looking to collaborate with Game Developers/Programmers.
 - ⚡ I love to build cool stuff.
 
